@@ -1,0 +1,15 @@
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\bin\Debug\net8.0\EjercicioIfAnidados.exe
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\bin\Debug\net8.0\EjercicioIfAnidados.deps.json
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\bin\Debug\net8.0\EjercicioIfAnidados.runtimeconfig.json
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\bin\Debug\net8.0\EjercicioIfAnidados.dll
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\bin\Debug\net8.0\EjercicioIfAnidados.pdb
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.AssemblyInfo.cs
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.sourcelink.json
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.dll
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\refint\EjercicioIfAnidados.dll
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.pdb
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\EjercicioIfAnidados.genruntimeconfig.cache
+C:\Users\Tatiana\Documents\UNIVERSIDAD\Fundamentos Programación\EjercicioIfAnidados\EjercicioIfAnidados\obj\Debug\net8.0\ref\EjercicioIfAnidados.dll

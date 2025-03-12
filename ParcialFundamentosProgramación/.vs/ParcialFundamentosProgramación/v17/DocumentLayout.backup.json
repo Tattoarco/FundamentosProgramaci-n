@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tatiana\\Desktop\\ParcialFundamentosProgramaci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6389CCCF-7C69-4960-8F3B-C84BC8FCFF4D}|ParcialFundamentosProgramaci\u00F3n\\ParcialFundamentosProgramaci\u00F3n.csproj|c:\\users\\tatiana\\desktop\\parcialfundamentosprogramaci\u00F3n\\parcialfundamentosprogramaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6389CCCF-7C69-4960-8F3B-C84BC8FCFF4D}|ParcialFundamentosProgramaci\u00F3n\\ParcialFundamentosProgramaci\u00F3n.csproj|solutionrelative:parcialfundamentosprogramaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\ParcialFundamentosProgramaci\u00F3n\\ParcialFundamentosProgramaci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "ParcialFundamentosProgramaci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\ParcialFundamentosProgramaci\u00F3n\\ParcialFundamentosProgramaci\u00F3n\\Program.cs",
+              "RelativeToolTip": "ParcialFundamentosProgramaci\u00F3n\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:10:55.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

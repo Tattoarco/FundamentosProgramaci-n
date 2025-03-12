@@ -1,0 +1,15 @@
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\bin\Debug\net8.0\ParcialFundamentosProgramación.exe
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\bin\Debug\net8.0\ParcialFundamentosProgramación.deps.json
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\bin\Debug\net8.0\ParcialFundamentosProgramación.runtimeconfig.json
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\bin\Debug\net8.0\ParcialFundamentosProgramación.dll
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\bin\Debug\net8.0\ParcialFundamentosProgramación.pdb
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.sourcelink.json
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.dll
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\refint\ParcialFundamentosProgramación.dll
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.pdb
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ParcialFundamentosProgramación.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\ParcialFundamentosProgramación\ParcialFundamentosProgramación\obj\Debug\net8.0\ref\ParcialFundamentosProgramación.dll
